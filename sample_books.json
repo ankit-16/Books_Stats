@@ -1,0 +1,137 @@
+[
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "rating": 5,
+    "year": 2008,
+    "pages": 464
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt and David Thomas",
+    "rating": 5,
+    "year": 1999,
+    "pages": 352
+  },
+  {
+    "title": "Design Patterns",
+    "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+    "rating": 5,
+    "year": 1994,
+    "pages": 395
+  },
+  {
+    "title": "Effective Python",
+    "author": "Brett Slatkin",
+    "rating": 5,
+    "year": 2019,
+    "pages": 480
+  },
+  {
+    "title": "Fluent Python",
+    "author": "Luciano Ramalho",
+    "rating": 5,
+    "year": 2022,
+    "pages": 1014
+  },
+  {
+    "title": "The Mythical Man-Month",
+    "author": "Frederick P. Brooks Jr.",
+    "rating": 5,
+    "year": 1975
+  },
+  {
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+    "rating": 5,
+    "year": 2022,
+    "pages": 1312
+  },
+  {
+    "title": "Cracking the Coding Interview",
+    "author": "Gayle Laakmann McDowell",
+    "rating": 5,
+    "year": 2015,
+    "pages": 706
+  },
+  {
+    "title": "Refactoring",
+    "author": "Martin Fowler",
+    "rating": 5,
+    "year": 2018,
+    "pages": 448
+  },
+  {
+    "title": "Code Complete",
+    "author": "Steve McConnell",
+    "rating": 5,
+    "year": 2004,
+    "pages": 960
+  },
+  {
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "rating": 4,
+    "year": 2016,
+    "pages": 304
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "rating": 5,
+    "year": 2018
+  },
+  {
+    "title": "The Phoenix Project",
+    "author": "Gene Kim, Kevin Behr, George Spafford",
+    "rating": 4,
+    "year": 2013,
+    "pages": 432
+  },
+  {
+    "title": "Site Reliability Engineering",
+    "author": "Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy",
+    "rating": 5,
+    "year": 2016
+  },
+  {
+    "title": "Computer Networking: A Top-Down Approach",
+    "author": "James F. Kurose and Keith W. Ross",
+    "rating": 4,
+    "year": 2021,
+    "pages": 864
+  },
+  {
+    "title": "Operating System Concepts",
+    "author": "Abraham Silberschatz, Peter B. Galvin, Greg Gagne",
+    "rating": 5,
+    "year": 2018,
+    "pages": 976
+  },
+  {
+    "title": "The Clean Coder",
+    "author": "Robert C. Martin",
+    "rating": 4,
+    "year": 2011
+  },
+  {
+    "title": "Grokking Algorithms",
+    "author": "Aditya Bhargava",
+    "rating": 5,
+    "year": 2016,
+    "pages": 256
+  },
+  {
+    "title": "Building Microservices",
+    "author": "Sam Newman",
+    "rating": 4,
+    "year": 2021,
+    "pages": 618
+  },
+  {
+    "title": "System Design Interview – An Insider's Guide",
+    "author": "Alex Xu",
+    "rating": 5,
+    "year": 2020
+  }
+]
